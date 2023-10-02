@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OneNote on Lisa走走寫寫</title>
-    <link>https://AlisaLu3104.github.io/categories/onenote/</link>
-    <description>Recent content in OneNote on Lisa走走寫寫</description>
+    <title>Notion on Lisa走走寫寫</title>
+    <link>https://AlisaLu3104.github.io/tags/notion/</link>
+    <description>Recent content in Notion on Lisa走走寫寫</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Oct 2023 21:00:00 +0800</lastBuildDate><atom:link href="https://AlisaLu3104.github.io/categories/onenote/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Oct 2023 21:00:00 +0800</lastBuildDate><atom:link href="https://AlisaLu3104.github.io/tags/notion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>為何我放棄使用Notion?</title>
       <link>https://AlisaLu3104.github.io/blog/whynonotion/</link>
@@ -22,24 +22,6 @@
 事後覺得既然Notion功能這麼強大我想要學習它，讓它可以幫助我就像網路上的大家講的那樣
 於是買了書，買線上課程，也慢慢了解該怎樣使用它跟著一步一步的設定
 也跟著建立類似子彈筆記一樣，規劃每日代辦清單、關機儀式…</description>
-    </item>
-    
-    <item>
-      <title>來建立你的夢想清單吧！</title>
-      <link>https://AlisaLu3104.github.io/blog/mydreamlist/</link>
-      <pubDate>Sat, 30 Sep 2023 10:00:00 +0800</pubDate>
-      
-      <guid>https://AlisaLu3104.github.io/blog/mydreamlist/</guid>
-      <description>在愛麗絲夢遊仙境中有一段對話
-「這裡是哪裡？」愛麗絲問。
-「你要去哪裡？」精靈回答。
-「我不知道。」
-「如果你不知道你要去哪裡，那麼現在你在哪裡一點都不重要。」
-人生沒有目標，你也不會知道你要去哪裡
-每天就這樣得過且過，不知不覺人生10年20年過去，回頭發現自己好像沒有留下什麼？
-我相信你會有這樣的困繞，因為我也是
-每天上班、下班，週末跟朋友聚餐，出門跨年狂歡，然後新年，過節又跨年
-驀然回首，自己，好像就這樣一年一年過，對未來也沒有太大的想法</description>
     </item>
     
   </channel>
